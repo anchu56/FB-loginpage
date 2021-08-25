@@ -36,12 +36,15 @@ float: left;
     background-color: #4267b2;
     border-color: #29487d;
     color: #fff;
+    margin-left: 10px;
     font-size: 13px;
     font-weight: 550;
+    cursor: pointer;
 
 }
-
-
+.submit-button:hover{
+    background-color: #29487d;
+}
 
 
 body{
